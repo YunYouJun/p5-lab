@@ -7,4 +7,14 @@ A lab space for [p5](https://p5js.org/zh-Hans/).
 
 ## Demo
 
-- [Particle](https://yunyoujun.cn/p5-lab/demo/particle/)
+- [Particle](./demo/particle/)
+- Inverse Kinematics
+  - Fixed Point
+    - [CCD](./demo/ik/ccd/): <https://editor.p5js.org/YunYouJun/sketches/kJJqXPATQ>
+    - [FABRIK](./demo/ik/fabrik/): <https://editor.p5js.org/YunYouJun/sketches/bS8jB3EsC>
+
+## Dev
+
+```sh
+live-server
+```
